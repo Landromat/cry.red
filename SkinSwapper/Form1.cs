@@ -65,8 +65,6 @@ namespace SkinSwapper
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //      SkinSwapper.Properties.Settings.Default.pakFiles = "";
-            //checksum = new WebClient().DownloadString("https://reserve-beds.000webhostapp.com/checksum_version.txt");
             label2.Visible = false;
             panel5.Visible = false;
             this.CenterToScreen();
