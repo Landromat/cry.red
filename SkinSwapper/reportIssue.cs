@@ -52,18 +52,20 @@ int nHeightEllipse // width of ellipse
             }
             else
             {
-                string ip = new WebClient().DownloadString("http://icanhazip.com/");
+            
+            // fix the below yourself if you would like, otherwise just delete it!
+                /*string ip = new WebClient().DownloadString("http://icanhazip.com/");
 
                 using (dWebHook dcWeb = new dWebHook())
                 {
-                    dcWeb.ProfilePicture = "https://static.giantbomb.com/uploads/original/4/42381/1196379-gas_mask_respirator.jpg";
+                    dcWeb.ProfilePicture = *LINK REMOVED*;
                     dcWeb.UserName = "Issue Report";
-                    dcWeb.WebHook = "https://discordapp.com/api/webhooks/585273503176065039/4ALHTDcPzlH7mj5yKXAdMMz8FjkB5dRorSPrxrbhANnfmFPmJP5hJ3yR_0BXTEwcjKh5";
+                    dcWeb.WebHook = *LINK REMOVED*;
                     dcWeb.SendMessage(textBox1.Text + " - " + textBox2.Text);
                 }
                 SkinSwapper.Properties.Settings.Default.errMsg = "issue submitted!";
                 Form err = new msgBox();
-                err.Show();
+                err.Show();*/
                 this.Close();
             }
         }
