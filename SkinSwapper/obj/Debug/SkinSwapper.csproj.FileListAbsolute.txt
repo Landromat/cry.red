@@ -1,0 +1,17 @@
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\bin\Debug\SkinSwapper.exe.config
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\bin\Debug\SkinSwapper.exe
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\bin\Debug\SkinSwapper.pdb
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.csprojAssemblyReference.cache
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.Form1.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.Properties.Resources.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.csproj.GenerateResource.cache
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.csproj.CoreCompileInputs.cache
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.exe
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.pdb
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.Swapper.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.skins1.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.settings.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.msgBox.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.backblings.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.reportIssue.resources
+C:\Users\Lumin\source\repos\SkinSwapper\SkinSwapper\obj\Debug\SkinSwapper.other.resources
